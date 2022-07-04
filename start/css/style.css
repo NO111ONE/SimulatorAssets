@@ -4,7 +4,7 @@
     format("truetype");
 }
 body {
-  background: pink;
+  background-color: #000000;
   color: white;
   text-align: center;
 }
