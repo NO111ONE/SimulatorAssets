@@ -4,9 +4,11 @@
     format("truetype");
 }
 body {
-  background-color: #000000;
   color: white;
   text-align: center;
+}
+div{
+  background-color: #000000
 }
 iframe {
   position: fixed;
