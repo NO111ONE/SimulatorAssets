@@ -30,7 +30,7 @@ iframe {
   display: none;
 }
 
-/*.start_box {
+.start_box {
   position: absolute;
   left: 50%;
   top: 40%;
@@ -38,7 +38,6 @@ iframe {
   width: 10%;
   height: 5%;
 }
-*/
 
 .button {
   background-color: #FFFFFF;
