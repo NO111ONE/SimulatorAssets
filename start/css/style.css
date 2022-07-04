@@ -5,6 +5,7 @@
 }
 body {
   background: black;
+  text-color: white;
   text-align: center;
 }
 iframe {
@@ -39,7 +40,7 @@ iframe {
   height: 5%;
 }
 
-.button {
+/*.button {
   background-color: #FFFFFF;
   border: none;
   color: white;
@@ -49,3 +50,4 @@ iframe {
   display: inline-block;
   font-size: 16px;
 }
+i think this is useless lol */
