@@ -42,6 +42,7 @@ iframe {
 }
 
 .start_box {
+  background-color: #000000;
   position: absolute;
   left: 50%;
   top: 40%;
