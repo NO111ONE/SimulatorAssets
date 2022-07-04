@@ -3,7 +3,10 @@
   src: url("https://github.com/NO111ONE/SimulatorAssets/blob/main/fonts/MiSansVF.ttf?raw=true")
     format("truetype");
 }
-
+body {
+  background: black;
+  text-align: center;
+}
 iframe {
   position: fixed;
   top: 0;
