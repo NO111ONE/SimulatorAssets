@@ -1,6 +1,11 @@
 @font-face {
   font-family: "MiSansVF";
-  src: url("no111one.github.io/SimulatorAssets/fonts/MiSansVF.ttf")
+  src: url("https://no111one.github.io/SimulatorAssets/fonts/MiSansVF.ttf")
+    format("truetype");
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("https://no111one.github.io/SimulatorAssets/fonts/Roboto-Medium.ttf")
     format("truetype");
 }
 body {
@@ -30,6 +35,10 @@ iframe {
   font-weight: bold;
   font-size: 10em;
   display: none;
+}
+
+.DebugText {
+  font-family: "Roboto";
 }
 
 .start_box {
